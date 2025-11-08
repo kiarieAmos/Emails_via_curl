@@ -79,5 +79,5 @@ Upload file represents the email date file that we have defined above.
 1. Clone this repository.
 2. Edit the email data file as necessary.
 3. Edit the curl command accordingly.
-4. Open your command prompt  and navigate to the repos directory.
-5. Paste the curl command to the terminal and press enter.
+4. Open your command prompt  and navigate to the repo's directory.
+5. Execute the command via `./Email_commad.sh`
