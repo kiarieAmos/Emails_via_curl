@@ -1,0 +1,19 @@
+From: Kiarie Amos <sender@gmail.com>
+To: Mr Receiver <mr_receiver@gmail.com>
+Subject: AN EXAMPLE OF EMAIL
+Date: Sat Nov  8 11:17:36 EAST 2025
+
+Dear Mr Receiver.
+
+My name is Kiarie Amos, I am a software novice from Earth.
+
+I am writing to inform you of the signifiant progress we have made here on Terra in and around AI and machine learning.
+The team at Open AI has been hard at work for the past 3 years commercializing large language models.
+The technology is an inception by a research team at google and its ins and outs are described briefly in paper titled "Attention is all you need".
+
+Looking forward to hearing from you.
+
+----
+Your trully.
+
+Software Novice.
